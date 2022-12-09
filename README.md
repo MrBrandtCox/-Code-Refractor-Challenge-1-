@@ -24,3 +24,4 @@
 ! [Image of Horiseon website](https://courses.bootcampspot.com/courses/2841/files/2341767/preview)
 
 ### Link To Deployed Application
+[Click here to view live site!](https://mrbrandtcox.github.io/Horiseon-Refactored/)
