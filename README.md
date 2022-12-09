@@ -21,7 +21,8 @@
 **THEN** I find a concise, descriptive title.
 
 ## Mockup Image
-! [Image of Horiseon website](https://courses.bootcampspot.com/courses/2841/files/2341767/preview)
+![challenge 1 mockup image](https://user-images.githubusercontent.com/103869234/206628962-8e8b59ca-c909-4c7e-8a9b-17244984afcd.png)
+
 
 ### Link To Deployed Application
 [Click here to view live site!](https://mrbrandtcox.github.io/Horiseon-Refactored/)
